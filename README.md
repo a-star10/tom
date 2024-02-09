@@ -44,4 +44,6 @@ Contributions to ANONYMOUS TOM are always welcome, whether it's bug fixes, featu
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Badges
 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
