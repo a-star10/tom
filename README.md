@@ -20,12 +20,15 @@ ANONYMOUS TOM is a Python script designed for dynamically changing IP addresses 
 
 1. Clone the repository:
 
-git clone 
+git clone https://github.com/a-star10/tom.git
 
 2. Install the dependencies:
 pip install -r requirements.txt
+pip install PySocks
+Or pip install requests[socks]
 
-3. Ensure the Tor service is installed and configured on your system.
+
+4. Ensure the Tor service is installed and configured on your system.
 
 ## Usage
 
@@ -42,7 +45,7 @@ Contributions to ANONYMOUS TOM are always welcome, whether it's bug fixes, featu
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) 
 
 ## Badges
 
