@@ -41,7 +41,7 @@ def check_and_install_dependencies():
 def start_tor_service():
     
     display_banner("ANONYMOUS TOM")
-    print("\033[1;40;31m [+] V0.1 Created by Léon Meizou, Cybersecurity Evangelist [+] \n")
+    print("\033[1;40;31m [+] V0.1 Created by Léon Meizou, Cybersecurity Enthusiast [+] \n")
     
     
     print(f"[+] Démarrage de Tor")
